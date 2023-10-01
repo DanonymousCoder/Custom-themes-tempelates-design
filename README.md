@@ -26,7 +26,8 @@ Go to free websites like Colorlib or ThemeForest to find cool design templates. 
 ### 3. Install WordPress 🚀
 
 Follow the baby-simple instructions on the WordPress website to install it on your computer.
-Create a Child Theme 👶
+
+### 4. Create a Child Theme 👶
 
 We want to play safely, so make a "child theme." It's like a coloring book that won't mess up the original.
 Customize the Design 🎉
