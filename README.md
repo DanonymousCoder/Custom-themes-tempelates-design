@@ -43,7 +43,7 @@ Write Down Everything 📝
 ### 7. Make a note (like a bedtime story) to explain how your website works. Keep it in a folder.
 Share Your Work 🤝
 
-Put your project on GitHub for everyone to see. They can use your pretty design too!
+### 8. Put your project on GitHub for everyone to see. They can use your pretty design too!
 Tell the Original Creator 📢
 
 Send a message (like a friendly wave) to the original template creator and tell them what you did.
