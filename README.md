@@ -35,22 +35,24 @@ We want to play safely, so make a "child theme." It's like a coloring book that 
 
 Use HTML and CSS to make the website look just the way you want. Change colors, fonts, and layouts!
 
-Test Your Website 👓
+### 6. Test Your Website 👓
 
 Try your website on your computer to see if it's perfect. Ask friends or teddy bears for feedback!
 Write Down Everything 📝
 
-Make a note (like a bedtime story) to explain how your website works. Keep it in a folder.
+### 7. Make a note (like a bedtime story) to explain how your website works. Keep it in a folder.
 Share Your Work 🤝
 
-Put your project on GitHub for everyone to see. They can use your pretty design too!
+### 8. Put your project on GitHub for everyone to see. They can use your pretty design too!
 Tell the Original Creator 📢
 
-Send a message (like a friendly wave) to the original template creator and tell them what you did.
+### 9. Send a message (like a friendly wave) to the original template creator and tell them what you did.
 Keep Smiling 😄
 
-Keep your website updated and help others if they have questions. Sharing is caring!
+### 10. Keep your website updated and help others if they have questions. Sharing is caring!
 And that's it, little one! You've just learned how to make websites beautiful. Have fun and keep exploring! 🌟
 
-Love,
-Your Friendly Web Designer 😊
+*Love,*
+
+
+*Your Friendly Web Designer 😊* 
