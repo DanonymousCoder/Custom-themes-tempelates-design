@@ -55,5 +55,4 @@ And that's it, little one! You've just learned how to make websites beautiful. H
 *Love,*
 
 
- 
 *Your Friendly Web Designer 😊* 
