@@ -52,5 +52,5 @@ Keep Smiling 😄
 ### 10. Keep your website updated and help others if they have questions. Sharing is caring!
 And that's it, little one! You've just learned how to make websites beautiful. Have fun and keep exploring! 🌟
 
-Love,
-Your Friendly Web Designer 😊
+__Love,__
+__Your Friendly Web Designer 😊__
