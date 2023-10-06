@@ -46,7 +46,7 @@ Share Your Work 🤝
 ### 8. Put your project on GitHub for everyone to see. They can use your pretty design too!
 Tell the Original Creator 📢
 
-Send a message (like a friendly wave) to the original template creator and tell them what you did.
+### 9. Send a message (like a friendly wave) to the original template creator and tell them what you did.
 Keep Smiling 😄
 
 Keep your website updated and help others if they have questions. Sharing is caring!
