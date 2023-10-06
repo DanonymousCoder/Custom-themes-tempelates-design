@@ -35,7 +35,7 @@ We want to play safely, so make a "child theme." It's like a coloring book that 
 
 Use HTML and CSS to make the website look just the way you want. Change colors, fonts, and layouts!
 
-Test Your Website 👓
+### 6. Test Your Website 👓
 
 Try your website on your computer to see if it's perfect. Ask friends or teddy bears for feedback!
 Write Down Everything 📝
