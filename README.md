@@ -40,7 +40,7 @@ Use HTML and CSS to make the website look just the way you want. Change colors, 
 Try your website on your computer to see if it's perfect. Ask friends or teddy bears for feedback!
 Write Down Everything 📝
 
-Make a note (like a bedtime story) to explain how your website works. Keep it in a folder.
+### 7. Make a note (like a bedtime story) to explain how your website works. Keep it in a folder.
 Share Your Work 🤝
 
 Put your project on GitHub for everyone to see. They can use your pretty design too!
