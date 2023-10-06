@@ -49,7 +49,7 @@ Tell the Original Creator 📢
 ### 9. Send a message (like a friendly wave) to the original template creator and tell them what you did.
 Keep Smiling 😄
 
-Keep your website updated and help others if they have questions. Sharing is caring!
+### 10. Keep your website updated and help others if they have questions. Sharing is caring!
 And that's it, little one! You've just learned how to make websites beautiful. Have fun and keep exploring! 🌟
 
 Love,
