@@ -1,1 +1,193 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: rgba(128, 128, 128, 0.548);
+}
+.container nav {
+    background-color: #041b2cd8;
+    display: flex;
+    padding: 20px;
+}
+.logo {
+    margin-left: 70px;
+    color: white;
+    font-size: 25px;
+}
+.hero nav .nav-link {
+    display: flex;
+    margin-left: 900px;
+}
+.hero nav .nav-link ul {
+    list-style-type: none;
+    display: flex;
+    gap: 3rem;
+}
+.hero nav .nav-link ul a {
+    text-decoration: none;
+    color: white;
+}
+.hero .hero-body {
+     background: linear-gradient(to right, #1b4aa1, #9370DB);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    text-align: center;
+}
+.hero .hero-body .head {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.hero .hero-body .sub {
+    color: white;
+}
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.service .boxes {
+    display: flex;
+    gap: 2.5rem;
+}
+.h-txt {
+    font-size: 23px;
+    font-weight: bold;
+    padding: 40px;
+}
+img {
+    height: 250px;
+}
+.txt {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 5px;
+}
+.head {
+    font-weight: bold;
+}
+.txt .sub {
+    font-size: 10px;
+}
+.txt a {
+    text-decoration: none;
+    background-color: rgb(40, 68, 226);
+    color: white;
+    width: 110px;
+    padding: 7px;
+    border-radius: 5px;
+    align-self: center;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+    gap: 1.5rem;
+}
+.form img {
+    border-radius: 7px;
+    height: 530px;
+    width: 640px;
+    margin-left: 0;
+}
+.form form {
+    background-color: rgba(255, 255, 255, 0.938);
+    width: 600px;
+    border-radius: 7px;
+    padding: 30px;
+}
+.form form p.head {
+    margin: 0 130px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: large;
+}
+.form form .name {
+    padding: 5px;
+    margin-top: 10px;
+}
+.form form label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form form input {
+    border-radius: 10px;
+    border: 1px solid gray;
+    height: 50px;
+    width: 520px;
+    padding: 15px;
+    margin-top: 10px;
+}
+.form form .email {
+    padding: 5px;
+    margin-top: 10px;
+}
+.form form .message {
+    padding: 5px;
+    margin-top: 10px;
+}
+textarea {
+    width: 520px;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    height: 100px;
+}
+.form form button {
+    border-radius: 10px;
+    background-color: rgb(40, 68, 226);
+    width: 530px;
+    height: 50px;
+    color: white;
+    border: 0px solid rgb(40, 68, 226);
+    margin-top: 25px;
+}
+footer {
+    display: flex;
+    background-color: #041b2cd8;
+    color: white;
+    gap: 7rem;
+    padding: 30px 100px;
+    margin-top: 80px;
+}
+footer p.head {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+footer .about .sub ul {
+    font-size: 12px;
+}
+footer .sub ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    font-size: 13px;
+}
+.social {
+    margin-left: 100px;
+}
+.social ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    margin-top: 15px;
+} 
+.social ul a img {
+    height: 20px;
+    color: white;
+    filter: grayscale(100%);
+}
+footer .about p.sub {
+    font-size: 10px;
+}
