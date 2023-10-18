@@ -8,9 +8,11 @@ body {
     background-color: rgba(128, 128, 128, 0.548);
 }
 .container nav {
-    background-color: #041b2cd8;
+    background-color: #041b2cbf;
     display: flex;
     padding: 20px;
+    position: fixed;
+    width: 100%;
 }
 .logo {
     margin-left: 70px;
@@ -144,13 +146,17 @@ textarea {
     height: 100px;
 }
 .form form button {
+    margin-left: 22%;
     border-radius: 10px;
     background-color: rgb(40, 68, 226);
-    width: 530px;
+    width: 60%;
     height: 50px;
     color: white;
     border: 0px solid rgb(40, 68, 226);
     margin-top: 25px;
+}
+#submit:hover {
+    background-color: #1e2f4e;
 }
 footer {
     display: flex;
